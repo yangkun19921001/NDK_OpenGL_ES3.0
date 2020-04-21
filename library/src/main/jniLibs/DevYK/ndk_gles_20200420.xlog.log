@@ -1,0 +1,244 @@
+^^^^^^^^^^Mar 17 2020^^^18:28:38^^^^^^^^^^[18122,18122][2020-04-20 +0800 10:01:32]
+get mmap time: 2
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 291015f2
+MARS_BUILD_TIME: 2020-03-17 18:28:09
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+log dir space info, capacity:57715589120 free:27716808704 available:27716808704
+~~~~~ begin of mmap ~~~~~
+[E][2020-04-20 +8.0 10:01:38.517][18122, 18122][initXLOG][, , 0][init
+[I][2020-04-20 +8.0 10:01:39.229][18122, 18122][MainActivity][, , 0][权限获取成功
+[I][2020-04-20 +8.0 10:01:39.230][18122, 18122][MainActivity][, , 0][权限获取成功
+~~~~~ end of mmap ~~~~~[18234,18234][2020-04-20 +0800 10:01:48]
+^^^^^^^^^^Mar 17 2020^^^18:28:38^^^^^^^^^^[18234,18234][2020-04-20 +0800 10:01:48]
+get mmap time: 0
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 291015f2
+MARS_BUILD_TIME: 2020-03-17 18:28:09
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+log dir space info, capacity:57715589120 free:27716526080 available:27716526080
+[E][2020-04-20 +8.0 10:01:48.557][18234, 18234][initXLOG][, , 0][init
+[I][2020-04-20 +8.0 10:01:48.761][18234, 18234][MainActivity][, , 0][权限获取成功
+[I][2020-04-20 +8.0 10:01:48.761][18234, 18234][MainActivity][, , 0][权限获取成功
+[E][2020-04-20 +8.0 10:02:37.346][18234, 18234][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:02:37.347][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:02:37.347][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:02:37.347][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:02:37.347][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:02:51.091][18234, 18234][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:02:51.091][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:02:51.091][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:02:51.091][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:02:51.091][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:02:51.388][18234, 18234][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:02:51.388][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:02:51.388][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:02:51.388][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:02:51.388][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:02:51.610][18234, 18234][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:02:51.611][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:02:51.611][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:02:51.611][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:02:51.611][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:02:51.991][18234, 18234][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:02:51.991][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:02:51.992][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:02:51.992][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:02:51.992][18234, 18234*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+^^^^^^^^^^Mar 17 2020^^^18:28:38^^^^^^^^^^[18587,18587][2020-04-20 +0800 10:19:31]
+get mmap time: 0
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 291015f2
+MARS_BUILD_TIME: 2020-03-17 18:28:09
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+log dir space info, capacity:57715589120 free:27716440064 available:27716440064
+[D][2020-04-20 +8.0 10:19:31.911][18587, 18587][App][, , 0][xlog-init
+[D][2020-04-20 +8.0 10:19:32.005][18587, 18587][App][, , 0][onActivityCreated--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:19:32.110][18587, 18587][MainActivity][, , 0][权限获取成功
+[I][2020-04-20 +8.0 10:19:32.110][18587, 18587][MainActivity][, , 0][权限获取成功
+[D][2020-04-20 +8.0 10:19:32.112][18587, 18587][App][, , 0][onActivityStarted--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:32.115][18587, 18587][App][, , 0][onActivityResumed--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:32.132][18587, 18587][App][, , 0][onActivityPaused--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:32.160][18587, 18587][App][, , 0][onActivitySaveInstanceState--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:32.168][18587, 18587][App][, , 0][onActivityStopped--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:35.173][18587, 18587][App][, , 0][onActivityStarted--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:35.177][18587, 18587][App][, , 0][onActivityResumed--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:38.611][18587, 18587][App][, , 0][onActivityPaused--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:38.953][18587, 18587][App][, , 0][onActivityStopped--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:38.955][18587, 18587][App][, , 0][onActivityDestroyed--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+$$$$$$$$$$Mar 17 2020$$$18:28:38$$$$$$$$$$[18587,18587][2020-04-20 +0800 10:19:38]
+~~~~~ begin of mmap ~~~~~
+^^^^^^^^^^Mar 17 2020^^^18:28:38^^^^^^^^^^[18739,18739][2020-04-20 +0800 10:19:43]
+get mmap time: 0
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 291015f2
+MARS_BUILD_TIME: 2020-03-17 18:28:09
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+log dir space info, capacity:57715589120 free:27716472832 available:27716472832
+[D][2020-04-20 +8.0 10:19:43.263][18739, 18739][App][, , 0][xlog-init
+[D][2020-04-20 +8.0 10:19:43.360][18739, 18739][App][, , 0][onActivityCreated--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:19:43.465][18739, 18739][MainActivity][, , 0][权限获取成功
+[I][2020-04-20 +8.0 10:19:43.465][18739, 18739][MainActivity][, , 0][权限获取成功
+[D][2020-04-20 +8.0 10:19:43.467][18739, 18739][App][, , 0][onActivityStarted--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:19:43.470][18739, 18739][App][, , 0][onActivityResumed--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[E][2020-04-20 +8.0 10:19:44.848][18739, 18739][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:19:44.848][18739, 18739*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:19:44.848][18739, 18739*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:19:44.848][18739, 18739*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:19:44.848][18739, 18739*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+~~~~~ end of mmap ~~~~~[18860,18860][2020-04-20 +0800 10:21:33]
+^^^^^^^^^^Mar 17 2020^^^18:28:38^^^^^^^^^^[18860,18860][2020-04-20 +0800 10:21:33]
+get mmap time: 0
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 291015f2
+MARS_BUILD_TIME: 2020-03-17 18:28:09
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+log dir space info, capacity:57715589120 free:27716460544 available:27716460544
+~~~~~ begin of mmap ~~~~~
+[D][2020-04-20 +8.0 10:21:33.460][18860, 18860][App][, , 0][xlog-init
+[D][2020-04-20 +8.0 10:21:33.553][18860, 18860][App][, , 0][onActivityCreated--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:21:33.658][18860, 18860][MainActivity][, , 0][权限获取成功
+[I][2020-04-20 +8.0 10:21:33.658][18860, 18860][MainActivity][, , 0][权限获取成功
+[D][2020-04-20 +8.0 10:21:33.660][18860, 18860][App][, , 0][onActivityStarted--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:21:33.663][18860, 18860][App][, , 0][onActivityResumed--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+~~~~~ end of mmap ~~~~~[19070,19070][2020-04-20 +0800 10:22:05]
+~~~~~ begin of mmap ~~~~~
+^^^^^^^^^^Mar 17 2020^^^18:28:38^^^^^^^^^^[19070,19070][2020-04-20 +0800 10:22:05]
+get mmap time: 0
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 291015f2
+MARS_BUILD_TIME: 2020-03-17 18:28:09
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+log dir space info, capacity:57715589120 free:27716460544 available:27716460544
+[D][2020-04-20 +8.0 10:22:05.443][19070, 19070][App][, , 0][xlog-init
+[D][2020-04-20 +8.0 10:22:05.538][19070, 19070][App][, , 0][onActivityCreated--->com.devyk.ndk_opengl_es3_0.MainActivity@d46c42e
+[I][2020-04-20 +8.0 10:22:05.645][19070, 19070][MainActivity][, , 0][权限获取成功
+[I][2020-04-20 +8.0 10:22:05.645][19070, 19070][MainActivity][, , 0][权限获取成功
+[D][2020-04-20 +8.0 10:22:05.648][19070, 19070][App][, , 0][onActivityStarted--->com.devyk.ndk_opengl_es3_0.MainActivity@d46c42e
+[D][2020-04-20 +8.0 10:22:05.651][19070, 19070][App][, , 0][onActivityResumed--->com.devyk.ndk_opengl_es3_0.MainActivity@d46c42e
+[D][2020-04-20 +8.0 10:22:46.056][19070, 19070][App][, , 0][onActivityPaused--->com.devyk.ndk_opengl_es3_0.MainActivity@d46c42e
+[D][2020-04-20 +8.0 10:22:46.397][19070, 19070][App][, , 0][onActivitySaveInstanceState--->com.devyk.ndk_opengl_es3_0.MainActivity@d46c42e
+[D][2020-04-20 +8.0 10:22:46.399][19070, 19070][App][, , 0][onActivityStopped--->com.devyk.ndk_opengl_es3_0.MainActivity@d46c42e
+~~~~~ end of mmap ~~~~~[20100,20100][2020-04-20 +0800 10:25:20]
+~~~~~ begin of mmap ~~~~~
+^^^^^^^^^^Mar 17 2020^^^18:28:38^^^^^^^^^^[20100,20100][2020-04-20 +0800 10:25:20]
+get mmap time: 0
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 291015f2
+MARS_BUILD_TIME: 2020-03-17 18:28:09
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+log dir space info, capacity:57715589120 free:27697704960 available:27697704960
+[D][2020-04-20 +8.0 10:25:20.846][20100, 20100][App][, , 0][xlog-init
+[D][2020-04-20 +8.0 10:25:20.950][20100, 20100][App][, , 0][onActivityCreated--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:25:21.070][20100, 20100][MainActivity][, , 0][权限获取成功
+[I][2020-04-20 +8.0 10:25:21.070][20100, 20100][MainActivity][, , 0][权限获取成功
+[D][2020-04-20 +8.0 10:25:21.072][20100, 20100][App][, , 0][onActivityStarted--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:25:21.075][20100, 20100][App][, , 0][onActivityResumed--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[E][2020-04-20 +8.0 10:25:22.630][20100, 20100][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:25:22.630][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:22.631][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:25:22.631][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:25:22.631][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:23.390][20100, 20100][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:25:23.390][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:23.390][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:25:23.390][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:25:23.390][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:23.798][20100, 20100][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:25:23.798][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:23.798][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:25:23.798][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:25:23.798][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:24.326][20100, 20100][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:25:24.326][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:24.326][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:25:24.326][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:25:24.326][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:24.673][20100, 20100][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:25:24.673][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:24.673][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:25:24.673][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:25:24.673][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:24.889][20100, 20100][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:25:24.889][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:24.889][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:25:24.890][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:25:24.890][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:25.064][20100, 20100][eeee][, , 0][eee
+[I][2020-04-20 +8.0 10:25:25.064][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:25:25.064][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:25:25.064][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:25:25.064][20100, 20100*][trinity][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+~~~~~ end of mmap ~~~~~[20513,20513][2020-04-20 +0800 10:27:30]
+~~~~~ begin of mmap ~~~~~
+^^^^^^^^^^Mar 17 2020^^^18:28:38^^^^^^^^^^[20513,20513][2020-04-20 +0800 10:27:30]
+get mmap time: 0
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 291015f2
+MARS_BUILD_TIME: 2020-03-17 18:28:09
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+log dir space info, capacity:57715589120 free:27697635328 available:27697635328
+[D][2020-04-20 +8.0 10:27:30.893][20513, 20513][App][, , 0][xlog-init
+[D][2020-04-20 +8.0 10:27:30.992][20513, 20513][App][, , 0][onActivityCreated--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:27:31.103][20513, 20513][MainActivity][, , 0][权限获取成功
+[I][2020-04-20 +8.0 10:27:31.103][20513, 20513][MainActivity][, , 0][权限获取成功
+[D][2020-04-20 +8.0 10:27:31.106][20513, 20513][App][, , 0][onActivityStarted--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:27:31.109][20513, 20513][App][, , 0][onActivityResumed--->com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[E][2020-04-20 +8.0 10:27:35.706][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:27:35.706][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[W][2020-04-20 +8.0 10:27:35.707][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:27:35.707][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:27:35.707][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:27:35.707][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:27:35.707][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:27:35.707][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:27:39.608][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:27:39.608][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[W][2020-04-20 +8.0 10:27:39.608][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:27:39.609][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:27:39.609][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:27:39.609][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:27:39.609][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:27:39.609][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:27:40.095][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:27:40.095][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[W][2020-04-20 +8.0 10:27:40.095][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:27:40.096][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:27:40.096][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:27:40.096][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:27:40.096][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:27:40.096][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:27:55.573][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:27:55.573][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[W][2020-04-20 +8.0 10:27:55.573][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[D][2020-04-20 +8.0 10:27:55.574][20513, 20513][MainActivity][, , 0][com.devyk.ndk_opengl_es3_0.MainActivity@902395c
+[I][2020-04-20 +8.0 10:27:55.574][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 29][--->Android_JNI_JNIUtils_surfaceDestory
+[E][2020-04-20 +8.0 10:27:55.574][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 30][--->Android_JNI_JNIUtils_surfaceDestory
+[D][2020-04-20 +8.0 10:27:55.574][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 31][--->Android_JNI_JNIUtils_surfaceDestory
+[W][2020-04-20 +8.0 10:27:55.574][20513, 20513*][OpenGL ES 3.0][native_gles.cpp, Android_JNI_JNIUtils_surfaceDestory, 32][--->Android_JNI_JNIUtils_surfaceDestory
+~~~~~ end of mmap ~~~~~[20782,20782][2020-04-20 +0800 10:28:37]
+^^^^^^^^^^Mar 17 2020^^^18:28:38^^^^^^^^^^[20782,20782][2020-04-20 +0800 10:28:37]
+get mmap time: 0
+MARS_URL: 
+MARS_PATH: master
+MARS_REVISION: 291015f2
+MARS_BUILD_TIME: 2020-03-17 18:28:09
+MARS_BUILD_JOB: 
+log appender mode:0, use mmap:1
+log dir space info, capacity:57715589120 free:27697614848 available:27697614848

@@ -1,0 +1,85 @@
+apply plugin: 'com.android.application'
+
+apply plugin: 'kotlin-android'
+
+apply plugin: 'kotlin-android-extensions'
+
+android {
+    compileSdkVersion rootProject.ext.android["compileSdkVersion"]
+    buildToolsVersion rootProject.ext.android["buildToolsVersion"]
+
+    compileOptions {
+        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_1_8
+    }
+
+
+    repositories {
+        flatDir {
+            dirs 'libs'   // aar目录
+        }
+    }
+
+    defaultConfig {
+        applicationId "com.devyk.ndk_opengl_es3_0"
+        minSdkVersion rootProject.ext.android["minSdkVersion"]
+        targetSdkVersion rootProject.ext.android["targetSdkVersion"]
+        versionCode rootProject.ext.android["versionCode"]
+        versionName rootProject.ext.android["versionName"]
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        ndk {
+            // 设置支持的SO库架构
+//            abiFilters 'armeabi' //, 'x86', 'armeabi-v7a', 'x86_64', 'arm64-v8a'
+            abiFilters 'armeabi', 'armeabi-v7a', 'arm64-v8a'
+//            abiFilters  'armeabi-v7a'
+        }
+
+        externalNativeBuild {
+            cmake {
+                //java.lang.UnsatisfiedLinkError: dlopen failed: library "libc++_shared.so" not found
+                arguments "-DANDROID_STL=c++_shared"
+                abiFilters "armeabi-v7a"/*, "arm64-v8a"*/
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    //test
+    testImplementation rootProject.ext.dependencies["junit"]
+
+    //androidx
+    implementation rootProject.ext.dependencies["appcompat"]
+
+    //rx
+    implementation rootProject.ext.dependencies["rxjava2"]
+    implementation rootProject.ext.dependencies["rxandroid2"]
+    implementation rootProject.ext.dependencies["rxpermissions2"]
+
+
+    //kotlin
+    implementation rootProject.ext.dependencies["core-ktx"]
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+
+
+    //OpenGL ES3.0 DEMO
+    implementation project(path: ':library')
+    //OpenGL ES 3.0 书中的例子
+    implementation project(path: ':gles3_0_book_sample')
+
+
+    //bugly
+    implementation rootProject.ext.dependencies["crashreport"]
+    implementation rootProject.ext.dependencies["nativecrashreport"]
+
+
+
+}

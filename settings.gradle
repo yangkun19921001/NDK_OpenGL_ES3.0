@@ -1,0 +1,1 @@
+include ':app', ':library', ':gles3_0_book_sample'
